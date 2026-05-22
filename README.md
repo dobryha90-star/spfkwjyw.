@@ -1,11 +1,10 @@
 ```txt
-
 .          .           .     .                .       .
   .      .      *           .       .          .                       .
-                 .       .   . *       "He travelled far far away, in a land
-  .       ____     .      . .     where only ice, montain, coldness and wind
-         <WW>>>         .        .     lives and play music all the time
- .   .  /WWWI; \  .       .    .  ____      between the    stars."   .
+                 .       .   . *       "Он отправился далеко-далеко, в страну
+  .       ____     .      . .     где только лед, горы, холод и ветер
+         <WW>>>         .        .     живут и все время играют музыку
+ .   .  /WWWI; \  .       .    .  ____      среди звезд."   .
   *    /WWWWII; \=====;    .     /WI; \   *    .        /\_             .
   .   /WWWWWII;..      \_  . ___/WI;:. \     .        _/M; \    .   .         .
      /WWWWWIIIIi;..      \__/WWWIIII:.. \____ .   .  /MMI:  \   * .
