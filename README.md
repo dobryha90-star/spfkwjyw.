@@ -1,10 +1,10 @@
 ```plaintext
 .          .           .     .                .       .
   .      .      *           .       .          .                       .
-                 .       .   . *       "Он отправился далеко-далеко, в страну
-  .       ____     .      . .     где только лед, горы, холод и ветер
-         <WW>>>         .        .     живут и все время играют музыку
- .   .  /WWWI; \  .       .    .  ____      среди звезд."   .
+                 .       .   . *       "He travelled far, far away, to a land
+  .       ____     .      . .     where only ice, mountains, cold and wind
+         <WW>>>         .        .     live and play music all the time
+ .   .  /WWWI; \  .       .    .  ____      among the stars."   .
   *    /WWWWII; \=====;    .     /WI; \   *    .        /\_             .
   .   /WWWWWII;..      \_  . ___/WI;:. \     .        _/M; \    .   .         .
      /WWWWWIIIIi;..      \__/WWWIIII:.. \____ .   .  /MMI:  \   * .
