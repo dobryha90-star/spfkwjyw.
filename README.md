@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2800&pause=900&color=AEEAFF&center=true&vCenter=true&width=900&lines=ANASTASIA+%7C+SOC+ANALYST;THREAT+ANALYSIS+%7C+FORENSICS+%7C+MITRE+ATT%26CK" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2800&pause=900&color=AEEAFF&center=true&vCenter=true&width=900&lines=THREAT+ANALYSIS+%7C+FORENSICS+%7C+MITRE+ATT%26CK" />
 </p>
 
 <p align="center">
@@ -27,3 +27,6 @@ WWWWWWWWWWWWWIIIIIIii;;::..;..;\WWWWWWWWIIII;::; :::::::::.....::       \
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXX
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3F8FF,100:AEEAFF&height=2&section=header" />
+</p>
